@@ -4,7 +4,7 @@
       "id": 0,
       "name": "Mudblood",
       "specialty": "Mediocre magic",
-      "greased": false,
+      "greased": true,
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 2,
       "highest medal achieved": "bronze",
       "image": "./hog-imgs/mudblood.jpg"
@@ -116,6 +116,24 @@
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 4.1,
       "highest medal achieved": "wood",
       "image": "./hog-imgs/augustus_gloop.jpg"
+    },
+    {
+      "name": "dfsdf",
+      "specialty": "fsdfdsf",
+      "greased": "greased",
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": "12",
+      "highest medal achieved": "fgfg",
+      "image": "sdf",
+      "id": 13
+    },
+    {
+      "name": "dfsdf",
+      "specialty": "fsdf",
+      "greased": true,
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": "1",
+      "highest medal achieved": "dfsd",
+      "image": "fdsfdsfsdfs",
+      "id": 14
     }
   ]
 }
